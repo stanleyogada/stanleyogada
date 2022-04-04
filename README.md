@@ -45,10 +45,19 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chineduogada&count_private=true&show_icons=true&theme=dracula" alt="Ogada Stanley Chinedu's GitHub Stats" />
 </a>
 
-#
-
 <a href="https://github.com/chineduogada">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
+</a>
+
+## &#x1f4c8; GitHub Stats (Current Account)
+
+
+<a href="https://github.com/chineduogada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyogada&count_private=true&show_icons=true&theme=tokyonight" alt="Ogada Stanley Chinedu's GitHub Stats" />
+</a>
+
+<a href="https://github.com/chineduogada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyogada&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
 </a>
 
 #
@@ -71,7 +80,7 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
 #
 
 <a href="https://github.com/chineduogada">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chineduogada&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=stanleyogada&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
 </a>  
 
 <!-- links to social media icons -->
