@@ -38,7 +38,7 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
  -->
-## &#x1f4c8; GitHub Stats (<a href="https://github.com/chineduogada">Old Account</a>)
+## &#x1f4c8; GitHub Stats Overview (<a href="https://github.com/chineduogada">Old Account</a>)
 
 
 <a href="https://github.com/chineduogada">
@@ -48,7 +48,8 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
 <a href="https://github.com/chineduogada">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
 </a>
-
+#
+#
 ## &#x1f4c8; GitHub Stats (Current Account)
 
 
