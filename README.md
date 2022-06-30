@@ -38,19 +38,8 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
  -->
-## &#x1f4c8; GitHub Stats Overview (<a href="https://github.com/chineduogada">Old Account</a>)
 
-<a href="https://github.com/chineduogada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chineduogada&count_private=true&show_icons=true&theme=dracula" alt="Ogada Stanley Chinedu's GitHub Stats" />
-</a>
-
-<a href="https://github.com/chineduogada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chineduogada&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
-</a>
-
-#### <a href="https://github.com/chineduogada">Clik me</a> to view stats in more details
-
-## &#x1f4c8; GitHub Stats (Current Account)
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/chineduogada">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyogada&count_private=true&show_icons=true&theme=tokyonight" alt="Ogada Stanley Chinedu's GitHub Stats" />
