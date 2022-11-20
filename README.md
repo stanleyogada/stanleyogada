@@ -6,7 +6,7 @@
 
 ### I am ✨ Ogada Stanley Chinedu ✨,
 
-Front-End Engineer
+Web Developer
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
