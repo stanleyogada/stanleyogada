@@ -6,10 +6,7 @@
 
 ### I am ✨ Ogada Stanley Chinedu ✨,
 
-A Creative and immovable Front-End Engineer with over 5 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments. You can also find me on 
-<a href="https://www.linkedin.com/in/stanley-ogada/" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>, +22991185068, or +2349156595803.
+Front-End Engineer
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
