@@ -38,10 +38,10 @@ Web Developer @here
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/chineduogada">
+<!-- <a href="https://github.com/chineduogada">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyogada&count_private=true&show_icons=true&theme=tokyonight" alt="Ogada Stanley Chinedu's GitHub Stats" />
 </a>
-
+ -->
 <a href="https://github.com/chineduogada">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyogada&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
 </a>
