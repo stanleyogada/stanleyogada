@@ -46,8 +46,6 @@ Web Developer @here
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyogada&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
 </a>
 
-#
-
 <!-- <a href="https://github.com/chineduogada/react-rapid-carousel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dracula" />
 </a>
