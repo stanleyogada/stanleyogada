@@ -10,16 +10,19 @@
 
 View my works: <a href="https://www.richcodeconnection.com/">My Portfolio Website</a>
 
-<!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=nextjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TestingLibrary-informational?style=flat&logo=testinglibrary&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a) 
 
-## 🔧 Technologies & Tools
 ![Chakra-ui](https://img.shields.io/badge/Tools-chakra-%234ED1C5.svg?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vs-code?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
