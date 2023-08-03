@@ -45,7 +45,7 @@ View my works: <a href="https://www.richcodeconnection.com/">My Portfolio Websit
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyogada&count_private=true&show_icons=true&theme=tokyonight" alt="Ogada Stanley Chinedu's GitHub Stats" />
 </a>
  -->
-<a href="https://github.com/chineduogada">
+<a href="https://github.com/stanleyogada">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyogada&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
 </a>
 
@@ -66,7 +66,7 @@ View my works: <a href="https://www.richcodeconnection.com/">My Portfolio Websit
 
 
 
-<a href="https://github.com/chineduogada">
+<a href="https://github.com/stanleyogada">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=stanleyogada&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
 </a>  
 
