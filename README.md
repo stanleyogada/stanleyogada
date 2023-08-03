@@ -6,8 +6,8 @@
 
 ### I am ✨ Ogada Stanley Chinedu ✨, -->
 
-Web Developer 
-#
+# Web Developer 
+
 View my works: <a href="https://www.richcodeconnection.com/">My Portfolio Website</a>
 
 <!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
