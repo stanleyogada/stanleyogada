@@ -41,7 +41,7 @@
 ## &#x1f4c8; GitHub Stats
 
  <a href="https://github.com/stanleyogada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyogada&count_private=true&show_icons=true&theme=tokyonight" alt="Ogada Stanley Chinedu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyogada&count_private=true&show_icons=true&theme=tokyonight" alt="Ogada Stanley Chinedu's GitHub Statss" />
 </a>
 
 <a href="https://github.com/stanleyogada">
